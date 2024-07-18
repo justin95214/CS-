@@ -192,7 +192,6 @@ IPC의 종류로는 공유 메모리, 파일, 소켓, 익명 파이프, 명명 �
     - 마이크로프로세서에서 주로 사용된다.
     - 가장 낮은 주소에 부호값이 아닌 데이터가 먼저 오기 때문에, 바로 연산을 할 수 있다.
 
-출처: [https://mangkyu.tistory.com/92](https://mangkyu.tistory.com/92) [MangKyu's Diary:티스토리]
 
 CPU 스케줄링
 
